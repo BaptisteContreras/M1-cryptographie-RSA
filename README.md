@@ -1,7 +1,7 @@
 # M1-cryptograpgie-RSA
 
 # Library
-Only need sympy
+Only need sympy (https://www.sympy.org/fr/)
 
 # How to use
 ``` python3 main.py ```
